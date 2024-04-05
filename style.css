@@ -18,6 +18,10 @@
     opacity: 0.7; /* Dim the image on hover */
 }
 
+.carousel-slide {
+    object-fit: contain;
+    height: 50vh;
+}
 
 /* .nav-link {
     text-transform: uppercase;
